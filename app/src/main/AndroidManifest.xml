@@ -16,7 +16,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".OnClickActivity" />
-        <activity android:name=".OnLongClickActivity"></activity>
+        <activity android:name=".OnLongClickActivity" />
     </application>
 
 </manifest>
